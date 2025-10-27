@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Netflix.png" alt="Netflix Content Analysis Banner" width="800">
+  <img src="netflix.png" alt="Netflix Content Analysis Banner" width="800">
 </p>
 
 # 🎬 Netflix Content Analysis — Extended EDA (English)
